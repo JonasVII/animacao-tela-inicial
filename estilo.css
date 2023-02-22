@@ -68,6 +68,9 @@ animation: logo 1s;
         to {
             transform: translateX(0vh);
         }
+    }
+
+
 .Titulo
 {
     animation: titulo_cor 2s;
